@@ -1,0 +1,2 @@
+Space Invaders - 2d game - with Processing by Amira JEMAA
+This is a simple 2d game that I re-created using Processing (Java) it's a project that I made in my CS course during my first year of my Bachelor degree in Engineering( I switched to CS Later hehe). Thus, you can see that, I didn't use object oriented programming in this code because it was not allowed in this course.
